@@ -1,5 +1,6 @@
-[**CLICK HERE**](https://reyvaz.github.io/NOAA-Database-Analysis/us_weather.html) to see rendered Jupyter notebook
 
+<a href="https://nbviewer.jupyter.org/github/reyvaz/Mining-Medical-Records/blob/master/dates.ipynb" target="_blank">Click Here</a>
+to see the Notebook online in Jupyter nbviewer.
 
 ## Data Mining: Extracting Dates from Messy Medical Records
 
